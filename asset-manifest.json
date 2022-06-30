@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/healthvolt/static/css/main.edb9f947.chunk.css",
+    "main.js": "/healthvolt/static/js/main.3ab3688d.chunk.js",
+    "main.js.map": "/healthvolt/static/js/main.3ab3688d.chunk.js.map",
+    "runtime-main.js": "/healthvolt/static/js/runtime-main.9f9e88cc.js",
+    "runtime-main.js.map": "/healthvolt/static/js/runtime-main.9f9e88cc.js.map",
+    "static/css/2.31ff0196.chunk.css": "/healthvolt/static/css/2.31ff0196.chunk.css",
+    "static/js/2.5de6ed52.chunk.js": "/healthvolt/static/js/2.5de6ed52.chunk.js",
+    "static/js/2.5de6ed52.chunk.js.map": "/healthvolt/static/js/2.5de6ed52.chunk.js.map",
+    "static/js/3.d69bc293.chunk.js": "/healthvolt/static/js/3.d69bc293.chunk.js",
+    "static/js/3.d69bc293.chunk.js.map": "/healthvolt/static/js/3.d69bc293.chunk.js.map",
+    "index.html": "/healthvolt/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/healthvolt/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.edb9f947.chunk.css.map": "/healthvolt/static/css/main.edb9f947.chunk.css.map",
+    "static/js/2.5de6ed52.chunk.js.LICENSE.txt": "/healthvolt/static/js/2.5de6ed52.chunk.js.LICENSE.txt",
+    "static/media/healthvolt.2454fc30.png": "/healthvolt/static/media/healthvolt.2454fc30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f9e88cc.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.5de6ed52.chunk.js",
+    "static/css/main.edb9f947.chunk.css",
+    "static/js/main.3ab3688d.chunk.js"
+  ]
+}
