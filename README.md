@@ -6,3 +6,5 @@ HealthVolt is a data science platform for healthcare domains. The interactive vi
 -Keywords: ReactJS, JSX, D3,ChartJS,MedTech
 
 -source code is available upon request (rossikamal@gmail.com)
+![healthvolt_github_page](https://user-images.githubusercontent.com/14850405/176667054-19214092-7ffd-470e-986f-212e50fc53e6.png)
+
